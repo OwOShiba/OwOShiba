@@ -1,2 +1,2 @@
-- hi i know lua, java, javascript, python, c, html/css
-- shiba
+- Hi, I know Lua, Java, JavaScript, Python, C, HTML/CSS
+- Second year CompSci major !!
