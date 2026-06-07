@@ -1,2 +1,2 @@
-- Hi, I know Lua, Java, JavaScript, Python, C, HTML/CSS
-- Second year CompSci major !!
+- Hi, I know Lua, Java, JavaScript, Python, C, C++, HTML/CSS
+- Third year CompSci major !!
